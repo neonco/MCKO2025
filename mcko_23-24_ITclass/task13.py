@@ -1,6 +1,6 @@
 # компегэ 19749
 
-f = open('17_19749 (1).txt').readlines() # база
+f = open('../mcko_24-25_uglublenka/17_19749 (1).txt').readlines() # база
 d = [int(x) for x in f]                  # из строк в числа, базище
 
 # чисто посмотреть для себя
